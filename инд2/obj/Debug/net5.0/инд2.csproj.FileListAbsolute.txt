@@ -1,0 +1,16 @@
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.csproj.AssemblyReference.cache
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.AssemblyInfoInputs.cache
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.AssemblyInfo.cs
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.csproj.CoreCompileInputs.cache
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\инд2.exe
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\инд2.deps.json
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\инд2.runtimeconfig.json
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\инд2.runtimeconfig.dev.json
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\инд2.dll
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\ref\инд2.dll
+D:\программирование лабы\лаба2\инд2\bin\Debug\net5.0\инд2.pdb
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.dll
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\ref\инд2.dll
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.pdb
+D:\программирование лабы\лаба2\инд2\obj\Debug\net5.0\инд2.genruntimeconfig.cache
